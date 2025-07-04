@@ -1,6 +1,6 @@
 ﻿using teste;
 
-//var ex = new Exercicio_1();
-//ex.Executar();
+//var ex = new Feitticeiro();
+//ex.LancarFeitico();
 
-Exercicio_13.Executar();
+Exercicio15.Executar();
