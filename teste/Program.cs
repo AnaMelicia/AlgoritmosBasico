@@ -1,6 +1,7 @@
 ﻿using teste;
+using teste.Entidades;
 
-//var ex = new Exercicio_1();
-//ex.Executar();
+//var ex = new MembroBTS();
+//ex.ListarMembros();
 
-Exercicio_13.Executar();
+Exercicio19.Executar();
