@@ -1,6 +1,7 @@
 ﻿using teste;
+using teste.Entidades;
 
-//var ex = new Feitticeiro();
-//ex.LancarFeitico();
+//var ex = new MembroBTS();
+//ex.ListarMembros();
 
-Exercicio15.Executar();
+Exercicio18.Executar();
