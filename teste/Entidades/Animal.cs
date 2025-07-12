@@ -9,6 +9,14 @@ namespace teste.Entidades
 {
     public class Animal
     {
+        public Animal(string nome)
+        {
+            Nome = nome;
+        }
+
+        public Animal()
+        {
+        }
         public string Nome { get; set; }
        
         public virtual void EmitirSom()

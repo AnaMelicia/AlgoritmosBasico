@@ -9,6 +9,16 @@ namespace teste.Entidades
 {
     public class Feiticeiro
     {
+        public Feiticeiro(string nome, string casa, int ano, string feiticoFavorito)
+        {
+            Nome = nome;
+            Casa = casa;
+            Ano = ano;
+            FeiticoFavorito = feiticoFavorito;
+        }
+        public Feiticeiro()
+        {
+        }
         public string Nome { get; set; }
         public string Casa { get; set; }
         public int Ano { get; set; }

@@ -4,4 +4,4 @@ using teste.Entidades;
 //var ex = new MembroBTS();
 //ex.ListarMembros();
 
-Exercicio21.Executar();
+Exercicio22.Executar();
