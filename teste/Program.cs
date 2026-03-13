@@ -1,7 +1,8 @@
-﻿using teste;
-using teste.Entidades;
+﻿
+using teste.OLD;
+using teste.POO;
 
 //var ex = new MembroBTS();
 //ex.ListarMembros();
 
-Exercicio22.Executar();
+Exercicio23.Executar();
