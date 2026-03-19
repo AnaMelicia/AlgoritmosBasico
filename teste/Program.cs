@@ -5,4 +5,4 @@ using teste.POO;
 //var ex = new MembroBTS();
 //ex.ListarMembros();
 
-Exercicio23.Executar();
+Ecercicio24.Executar();
